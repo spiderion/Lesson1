@@ -20,6 +20,7 @@ class _MyAppState extends State<MyApp> {
             children: [
               Text('Alice'),
               Text('Ion'),
+              Text('Ai',style: TextStyle(color: Colors.white),),
               rowName(),
               button(),
             ],
